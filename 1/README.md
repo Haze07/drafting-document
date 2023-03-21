@@ -1,0 +1,1 @@
+## This folder contains templates related to folder with gitId equal to 1
