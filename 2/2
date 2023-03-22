@@ -3,7 +3,7 @@ this is content file on main 2 lol
 {{ container.name }}
 
 {% for invest in investments %}
-{{invest.amount}}
+
 {{invest.isSignatory}}
 
 {% endfor %}
