@@ -6,3 +6,4 @@ Individual
 {% elif investor.type == 'Company' %}
 Company 
 {% endif %}
+yteer
