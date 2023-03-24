@@ -1,1 +1,8 @@
-this is file one updated
+## Investor Check
+
+
+{% if investor.type == 'Individual' %}
+Individual 
+{% elif investor.type == 'Company' %}
+Company 
+{% endif %}
